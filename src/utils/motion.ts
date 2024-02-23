@@ -19,7 +19,7 @@ export const navVariants = {
   },
 };
 
-export const slideIn = (direction: string, type:string, delay:number, duration:number) => ({
+export const slideIn = (direction: any, type:any, delay:any, duration:any) => ({
   hidden: {
     x: direction === 'left' ? '-100%' : direction === 'right' ? '100%' : 0,
     y: direction === 'up' ? '100%' : direction === 'down' ? '100%' : 0,
@@ -87,7 +87,7 @@ export const textVariant2 = {
   },
 };
 
-export const fadeIn = (direction:string, type:string, delay:number, duration:number) => ({
+export const fadeIn = (direction:any, type:any, delay:any, duration:any) => ({
   hidden: {
     x: direction === 'left' ? 100 : direction === 'right' ? -100 : 0,
     y: direction === 'up' ? 100 : direction === 'down' ? -100 : 0,
@@ -122,7 +122,7 @@ export const planetVariants = (direction:any) => ({
   },
 });
 
-export const zoomIn = (delay:number, duration:number) => ({
+export const zoomIn = (delay:any, duration:any) => ({
   hidden: {
     scale: 0,
     opacity: 0,
