@@ -7,7 +7,7 @@
 -To analyze trendy web designs and learn the techniques used in them through practice.
 -Learn how to Best practices stylesheets.
 
-![Image](/public/project-prototype.png “Figma Design”)
+![Images of Web Design by Figma](/public/project-prototype.png)
 
 ## Reference
 
