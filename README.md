@@ -2,10 +2,10 @@
 
 ## Goals
 
--Rebuild past assignments in Typescript
--Learn how to use Next.js14 and Tailwind CSS to transform a Figma design into a fully functioning website.
--To analyze trendy web designs and learn the techniques used in them through practice.
--Learn how to Best practices stylesheets.
+- Rebuild past assignments in Typescript
+- Learn how to use Next.js14 and Tailwind CSS to transform a Figma design into a fully functioning website.
+- To analyze trendy web designs and learn the techniques used in them through practice.
+- Learn how to Best practices stylesheets.
 
 ![Images of Web Design by Figma](/public/project-prototype.png)
 
