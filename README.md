@@ -1,4 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Rebuild and Deploy a Modern Next 14/Typescript Website With Framer Motion & Tailwind CSS
+
+## Goals
+
+-Rebuild past assignments in Typescript
+-Learn how to use Next.js14 and Tailwind CSS to transform a Figma design into a fully functioning website.
+-To analyze trendy web designs and learn the techniques used in them through practice.
+-Learn how to Best practices stylesheets.
+
+![Image](/public/project-prototype.png “Figma Design”)
+
+## Reference
+
+[Youtube: Build and Deploy a Modern Next 13 Website With Framer Motion & Tailwind CSS](https://www.youtube.com/watch?v=ugCN_gynFYw&t=1517s)
+
+[Motion](https://www.framer.com/motion/)
 
 ## Getting Started
 
