@@ -2,7 +2,7 @@
 
 const NewFeautures = () => (
   <div>
-
+    NewFeautures
   </div>
 );
 

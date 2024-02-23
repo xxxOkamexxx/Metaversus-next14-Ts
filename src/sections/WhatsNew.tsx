@@ -2,7 +2,7 @@
 
 const WhatsNew = () => (
   <section>
-
+    WhatsNew
   </section>
 );
 

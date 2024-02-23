@@ -2,7 +2,7 @@
 
 const GetStarted = () => (
   <section>
-
+    GetStarted
   </section>
 );
 

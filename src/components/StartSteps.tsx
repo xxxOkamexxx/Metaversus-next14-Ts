@@ -2,7 +2,7 @@
 
 const StartSteps = () => (
   <div>
-
+    StartSteps
   </div>
 );
 
