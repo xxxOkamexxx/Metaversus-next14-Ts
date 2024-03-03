@@ -9,9 +9,11 @@
 
 ![Images of Web Design by Figma](/public/project-prototype.png)
 
-## Reference
+## References
 
 [Youtube: Build and Deploy a Modern Next 13 Website With Framer Motion & Tailwind CSS](https://www.youtube.com/watch?v=ugCN_gynFYw&t=1517s)
+
+[source code](https://github.com/adrianhajdin/project_metaverse)
 
 [Motion](https://www.framer.com/motion/)
 
